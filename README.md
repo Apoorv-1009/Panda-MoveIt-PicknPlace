@@ -2,6 +2,8 @@
 
 Pick and Place Script with MoveIt
 
+Video link: https://youtu.be/FNqIYG1AAtQ
+
 This script demonstrates pick and place functionality using MoveIt in ROS 2. It utilizes the MoveIt MoveGroup Interface to control the motion of a robotic arm and gripper. Below are the libraries used in this script:
 
 - `memory`: Provides utilities for managing dynamic memory allocation.
